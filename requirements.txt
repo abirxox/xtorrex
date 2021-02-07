@@ -1,0 +1,15 @@
+humanize
+click
+python-dateutil
+aiohttp
+jinja2
+six
+typing-extensions
+chardet
+yarl
+async-timeout
+multidict
+attrs
+MarkupSafe
+idna
+rarbg
